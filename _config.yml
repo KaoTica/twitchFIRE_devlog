@@ -1,0 +1,11 @@
+# basic options
+title: productNAME_devlog
+author: Kao Tica
+email: k40t1c4[at]gmail.com
+description: daily log
+twitter_username: tbd
+github_username:  KaoTica
+
+# Build settings
+markdown: kramdown
+theme: minima
